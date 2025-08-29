@@ -1,2 +1,1 @@
-# shopNexus
-Developed ShopNexus, a full-stack e-commerce platform enabling product browsing, cart management, and secure purchases. Built with React, Node.js, Express, and MongoDB, featuring user authentication, product filtering, order management, and payment gateway integration for a seamless shopping experience
+I developed ShopNexus, a full-stack e-commerce platform designed for seamless online shopping. It allows users to browse products, manage their cart. The platform is built using React for the frontend and Node.js with Express for the backend. Its architecture ensures smooth performance and scalability.
